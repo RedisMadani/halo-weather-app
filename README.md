@@ -1,7 +1,5 @@
 # Halo - The Weather App
-[![Build Status](https://travis-ci.com/cijo7/Halo.svg?branch=master)](https://travis-ci.com/cijo7/Halo)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/45bd325b322f481087bcf325ef1217ec)](https://www.codacy.com/app/cijo360/Halo)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+![preview](https://github.com/RedisMadani/halo-weather-app/assets/136177376/9254e0dc-1f3b-47f1-8dcc-bab31cb516eb)
 
 Halo is a weather app written in python. You can quickly view the
 weather in your city and checkout the forecast and historic temperature trends. 
